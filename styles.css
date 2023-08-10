@@ -1,1 +1,18 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: box;
+    background-color: rgb(147, 158, 179);
+    width: 100%;
+    max-width: 1024px;
+    font-size: 62.5%;    
+}
+.funParagraph{
+color: green
+}
+p {
+  font-size: 18px;
+}
+
+#mainHeading{
+  background-color: red;
+}
